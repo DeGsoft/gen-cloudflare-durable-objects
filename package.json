@@ -13,6 +13,7 @@
 		"wrangler": "^4.15.2"
 	},
 	"dependencies": {
+		"jose": "^6.0.11",
 		"tinybase": "^6.1.1"
 	}
 }
